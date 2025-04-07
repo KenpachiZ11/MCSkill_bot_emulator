@@ -1,0 +1,31 @@
+{
+  "window_title": "Minecraft",
+  "launcher_window_title": "McSkill",
+  "target_times1": ["01:10", "13:10"],
+  "close_launcher_times1": ["12:58", "00:58"],
+
+  "first_start_time": "01:10",
+  "first_close_time": "00:58",
+
+  "second_start_time": "13:10",
+  "second_close_time": "00:58",
+
+  "delays": {
+    "initial_delay": 8,
+    "activate_window_delay": 2,
+    "click_delay": 1,
+    "esc_delay": 10,
+    "lkm_delay": 3,
+    "mousemove_duration": 1,
+    "mousemove_delays": [0, 0, 0, 0]
+  },
+
+  "coordinates": {
+    "coord1": [1500, 400],
+    "coord2": [1500, 680],
+    "coord3": [1550, 850],
+    "coord4": [1300, 720],
+    "double_click": [1260, 600],
+    "click5": [1200, 700]
+  }
+}
